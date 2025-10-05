@@ -1,236 +1,328 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocJ4XwkTvFkN14zr5gGV-KCGnYP9ztD2mJsQVZZRF5jKis2EKJxu=s432-c-no" width="150" style="border-radius: 50%;" alt="Lavesh Nagda">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lavesh%20Nagda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+<div align="center">
   
-  # 👋 Yo! I'm Lavesh Nagda
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Developer;Automation+Enthusiast;Problem+Solver;Vibe+Coder)](https://git.io/typing-svg)
-  
-  **24 | Mumbai 🌆 | Turning Manual Tasks into Automated Solutions**
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=laveshnagda24-oss&color=blueviolet&style=for-the-badge)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Developer+%F0%9F%A4%96;Automation+Wizard+%E2%9A%A1;Vibe+Coder+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9)](https://github.com/laveshnagda24-oss)
   
 </div>
 
----
+<br>
 
-## 🎯 What I Do
-
-**Location:** Mumbai, India 🇮🇳  
-**Background:** 2 years in Operations (FedEx, Xfinity, IGP)  
-**Superpower:** Spotting repetitive tasks and automating them  
-
-### What I Build:
-- 🤖 AI-powered automation tools
-- 📊 Business workflow solutions
-- 🔧 Custom scripts that save hours
-- 📧 Smart data processing systems
-- 🎨 Practical tools for real problems
-
-### How I Work:
-- **Approach:** AI-assisted development
-- **Tools:** ChatGPT, Claude, Cursor
-- **Style:** Learn fast, build fast, iterate faster
-- **Focus:** Solutions that actually work in production
-
-> I turn "why do we do this manually?" into working code 🚀
-
----
-
-## 💪 What I Can Do For You
-
-### 🔧 Automation & Scripting
-- Build Python scripts to automate repetitive tasks
-- Process bulk data (CSV, Excel, PDFs)
-- Web scraping for data collection
-- Schedule automated jobs and workflows
-
-### 🤖 AI Integration
-- Integrate AI APIs (OpenAI, Claude, HuggingFace) into your projects
-- Build chatbots and AI assistants
-- Create content generation tools
-- Auto-categorization and smart filtering systems
-
-### 📊 Data Processing
-- Extract data from invoices, emails, documents
-- Clean and transform messy data
-- Build simple dashboards and reports
-- Database design and SQL queries
-
-### 🌐 Web Development
-- Flask web applications
-- REST API development and integration
-- Simple frontend interfaces (HTML/CSS/JS)
-- API testing and documentation tools
-
-### ⚡ Business Tools
-- Email automation and parsing
-- Bulk image/file processing
-- Custom reporting tools
-- Integration between different platforms
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  
+  ### 🚀 Quick Intro
+  
+  ```typescript
+  const lavesh = {
+    location: "Mumbai 🌆",
+    age: 24,
+    style: "AI-assisted coding",
+    motto: "Automate or die trying",
+    status: "Available for hire 💼"
+  }
+  ```
+  
+</td>
+<td width="50%" align="center">
+  
+  ### 💡 The Vibe
+  
+  **From Operations → Developer**
+  
+  Spent 2 years watching people
+  do repetitive tasks manually
+  
+  Thought: *"Why tho?"* 🤔
+  
+  Started coding to fix it ⚡
+  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">⚡ My Superpowers</h2>
 
 <div align="center">
 
-### Core Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### AI & Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Frameworks & Libraries
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Databases
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```mermaid
+mindmap
+  root((Lavesh))
+    Automation
+      Python Scripts
+      Web Scraping
+      Scheduled Jobs
+      Bulk Processing
+    AI Integration
+      ChatGPT APIs
+      Claude
+      Content Gen
+      Smart Tools
+    Data Magic
+      CSV/Excel/PDF
+      SQL Queries
+      ETL Pipelines
+      Dashboards
+    Web Dev
+      Flask Apps
+      REST APIs
+      Simple UIs
+      Integrations
+```
 
 </div>
 
 ---
 
-## 🚀 Skills Breakdown
-
-**Strong Areas:**
-
-✅ **Automation** - Building scripts that save hours of manual work  
-✅ **AI Integration** - Making AI APIs work for real business needs  
-✅ **Data Processing** - Cleaning, transforming, extracting data at scale  
-✅ **Problem Solving** - Understanding the problem before writing code  
-✅ **Ops Experience** - Know what teams actually need, not just features  
-
-**Can Build:**
-
-- Email parsers and auto-responders
-- Bulk data processors
-- Web scrapers for price/data monitoring
-- API integration tools
-- Content generation systems
-- File processing utilities
-- Simple web dashboards
-- Automated reporting tools
-
----
-
-## 💼 My Background
-
-**2 Years in Operations** (FedEx, Xfinity, IGP)
-- Saw teams doing the same manual tasks repeatedly
-- Understood real business pain points
-- Learned where technology can actually help
-
-**1 Year of Hands-on Coding**
-- Self-taught using AI tools
-- Built automation scripts for real problems
-- Focused on practical solutions over theory
-
-**Why This Matters:**
-- I understand business operations, not just code
-- I know what Product and Marketing teams need
-- I build tools people actually want to use
-
----
-
-## 🎯 My Approach
-
-> **"If you're doing it manually more than twice, automate it."**
-
-**My Development Process:**
-
-1. **Understand the real problem** - Dig deeper than surface issues
-2. **Use AI to accelerate development** - ChatGPT, Claude, Cursor
-3. **Debug and iterate** - Test, fix, understand why it works
-4. **Deploy working solutions** - Focus on production-ready code
-
----
-
-## 💡 What Makes Me Different
-
-✅ **Operations Background** - I've lived the pain points I solve  
-✅ **Fast Learner** - Pick up new tech quickly when needed  
-✅ **AI-Powered** - Leverage AI tools to build faster and better  
-✅ **Practical Focus** - Build things that work, not just look good  
-✅ **Clear Communication** - Explain tech in simple terms  
-✅ **Bias for Action** - Ship working solutions, then improve  
-
----
-
-## 🔥 Featured Projects
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-| Project | What It Does | Tech Used |
-|---------|-------------|-----------|
-| 📧 Email Parser | Auto-categorize support emails & generate responses | Python, AI API, Flask |
-| 🎨 Content Repurposer | Convert blogs to tweets, LinkedIn posts, emails | Python, OpenAI API |
-| 🖼️ Bulk Image Processor | Resize, compress, watermark images in bulk | Python, Pillow |
-| 📊 API Testing Dashboard | Test any REST API with simple interface | Flask, JavaScript |
-| 💰 Price Tracker | Monitor prices across Amazon/Flipkart | BeautifulSoup, SQLite |
-| 📝 Invoice Extractor | Extract data from PDF invoices automatically | PyPDF2, Flask |
-
-**📌 Projects coming soon - Currently building!**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+<br>Flask
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" />
+<br>ChatGPT
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📫 Let's Work Together
+<h2 align="center">🎯 What I Actually Build</h2>
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### 📧 Smart Automation
+Auto-categorize emails
+<br>Generate AI responses
+<br>Save 100s of hours
+
+**Tech:** Python • AI APIs • Flask
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 Content Tools
+Blog → Social posts
+<br>Multi-platform repurposing
+<br>AI-powered generation
+
+**Tech:** OpenAI • Python • NLP
+
+</td>
+<td width="33%" align="center">
+
+### 🖼️ Bulk Processing
+Resize/compress/convert
+<br>Batch operations
+<br>Simple web interface
+
+**Tech:** Pillow • Flask • JS
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 💰 Price Trackers
+Monitor e-commerce
+<br>Alert on price drops
+<br>Multi-site scraping
+
+**Tech:** BeautifulSoup • SQLite
+
+</td>
+<td width="33%" align="center">
+
+### 📊 API Testers
+Visual API testing
+<br>Save test cases
+<br>Response formatting
+
+**Tech:** Flask • REST • JSON
+
+</td>
+<td width="33%" align="center">
+
+### 📝 Data Extractors
+PDF/Invoice parsing
+<br>Structured data export
+<br>Automated workflows
+
+**Tech:** PyPDF2 • Regex • SQL
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">💭 The Secret Sauce</h2>
 
 <div align="center">
 
-**Open for:**
-- 🤝 Freelance projects
-- 💼 Full-time opportunities  
-- 🚀 Interesting collaborations
-- 🧠 Technical discussions
+```diff
+@@                   My Development Philosophy                    @@
 
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
++ I don't just write code - I solve real problems
++ Operations background = I understand business pain points
++ AI-assisted = Build 5x faster without compromising quality
++ Learn by building = Theory is boring, production teaches best
++ Ship first, perfect later = Done > Perfect
+
+- ❌ No fancy frameworks for the sake of it
+- ❌ No over-engineering simple solutions  
+- ❌ No building features nobody asked for
+```
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### 🎬 My Process
+  
+  ```
+  Problem 🔍 → AI Assist 🤖 → Build Fast ⚡ → Debug 🐛 → Ship 🚀 → Iterate 🔄
+  ```
+  
+</div>
+
+---
+
+<h2 align="center">🔥 Why Work With Me?</h2>
+
+<table align="center">
+<tr>
+<td>
+
+### ✅ You Get:
+- Someone who **understands business**, not just code
+- **Fast delivery** using AI-powered development
+- **Practical solutions** that actually work
+- Clean, maintainable code
+- Clear communication (no jargon BS)
+
+</td>
+<td>
+
+### ❌ You Don't Get:
+- Over-complicated architecture
+- Weeks of "planning" before coding
+- Features you didn't ask for
+- Academic explanations
+- Buzzword bingo
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📫 Let's Build Something</h2>
+
+<div align="center">
+
+### 🤝 Open For
+
+**Full-time roles** • **Freelance projects** • **Collaborations** • **Contract work**
+
+<br>
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](#)
+
+<br>
+
+**📍 Location:** Mumbai (Andheri) - Available for in-person  
+**💰 Rate:** Negotiable based on project  
+**⚡ Response Time:** Usually within 24 hours  
 
 </div>
 
 ---
 
-## ⚡ Quick Facts
+<div align="center">
 
-- 🎯 **Strength:** Turning business problems into automated solutions
-- 🚀 **Speed:** AI-assisted development = faster delivery
-- 🧠 **Mindset:** Learn by building, not just reading
-- 💡 **Focus:** Practical tools over fancy frameworks
-- 📍 **Location:** Mumbai (Andheri) - Available for in-person work
-- ⏰ **Availability:** Open to full-time roles & freelance projects
+### ⚡ Quick Facts About Me
+
+🎯 Turned 2 years of ops frustration into coding skills  
+🤖 Build with AI assistance (ChatGPT, Claude, Cursor)  
+📦 Shipped automation that saved 70% manual work  
+🚀 Learn by doing, not by reading  
+☕ Best code happens at 2 AM with coffee  
+🎮 When not coding: Tech Twitter + Mumbai street food  
+
+</div>
 
 ---
 
 <div align="center">
   
-  **"Build → Test → Ship → Improve → Repeat 🚀"**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   
-  ### 💬 Let's build something cool together!
+  **"Automate the boring stuff, build the cool stuff" 🚀**
   
-  *Made with ❤️ and AI assistance | Lavesh Nagda © 2025*
+  ![Profile Views](https://komarev.com/ghpvc/?username=laveshnagda24-oss&color=blueviolet&style=flat-square)
   
+  *Made with ❤️ and AI assistance • Lavesh Nagda © 2024*
+
 </div>
