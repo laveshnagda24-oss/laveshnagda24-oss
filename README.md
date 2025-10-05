@@ -10,96 +10,39 @@
 
 <br>
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🚀 Quick Intro
-
-</div>
-
-```javascript
-const lavesh = {
+<td width="50%" align="center">
+  
+  ### 🚀 Quick Intro
+  
+  ```typescript
+  const lavesh = {
     location: "Mumbai 🌆",
     age: 24,
-    yearsOfExp: {
-        operations: 2,
-        coding: 1,
-        aiTools: "daily driver"
-    },
-    currentStatus: "🟢 Available for hire",
-    superpower: "Turning coffee into code",
-    approach: "AI-assisted development",
-    
-    canHelp() {
-        return [
-            "Automate boring tasks",
-            "Build AI-powered tools", 
-            "Scrape & process data",
-            "Create Flask apps",
-            "Integrate APIs"
-        ];
-    },
-    
-    worksWith: ["startups", "agencies", "enterprises"],
-    rates: "Let's talk 💬"
-};
-
-console.log("Ready to build 🚀");
-```
-
-<img src="https://img.shields.io/badge/Status-Available_for_Hire-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
+    style: "AI-assisted coding",
+    motto: "Automate or die trying",
+    status: "Available for hire 💼"
+  }
+  ```
+  
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💡 The Journey
-
-</div>
-
-<br>
-
-```mermaid
-graph LR
-    A[😴 Operations Job<br/>FedEx, Xfinity, IGP] --> B[🤔 Saw Repetition<br/>Manual tasks everywhere]
-    B --> C[💡 Had an Idea<br/>Why not automate?]
-    C --> D[👨‍💻 Started Learning<br/>Python + AI tools]
-    D --> E[🚀 Now Building<br/>Automation solutions]
-    
-    style A fill:#ff6b6b
-    style B fill:#ffd93d
-    style C fill:#6bcf7f
-    style D fill:#4d96ff
-    style E fill:#a78bfa
-```
-
-<br>
-
-<table>
-<tr>
-<td align="center">🏢<br><sub><b>2 Years<br/>Operations</b></sub></td>
-<td align="center">➡️</td>
-<td align="center">💻<br><sub><b>1 Year<br/>Coding</b></sub></td>
-<td align="center">➡️</td>
-<td align="center">🤖<br><sub><b>AI-Powered<br/>Developer</b></sub></td>
-</tr>
-</table>
-
-<br>
-
-> **"Saw the problem. Learned to code. Now I fix it."**
-
+<td width="50%" align="center">
+  
+  ### 💡 The Vibe
+  
+  **From Operations → Developer**
+  
+  Spent 2 years watching people
+  do repetitive tasks manually
+  
+  Thought: *"Why tho?"* 🤔
+  
+  Started coding to fix it ⚡
+  
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -343,8 +286,8 @@ PDF/Invoice parsing
 
 <br>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:laveshnagdda24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/lavesh-nagda-169b79217/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](#)
 
 <br>
