@@ -323,6 +323,6 @@ PDF/Invoice parsing
   
   ![Profile Views](https://komarev.com/ghpvc/?username=laveshnagda24-oss&color=blueviolet&style=flat-square)
   
-  *Made with ❤️ and AI assistance • Lavesh Nagda © 2024*
+  *Made with ❤️ and AI assistance • Lavesh Nagda © 2025*
 
 </div>
