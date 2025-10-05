@@ -1,6 +1,7 @@
-# 👋 Yo! I'm Lavesh Nagda
-
 <div align="center">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocJ4XwkTvFkN14zr5gGV-KCGnYP9ztD2mJsQVZZRF5jKis2EKJxu=s432-c-no" width="150" style="border-radius: 50%;" alt="Lavesh Nagda">
+  
+  # 👋 Yo! I'm Lavesh Nagda
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI-Powered+Developer;Automation+Enthusiast;Problem+Solver;Vibe+Coder)](https://git.io/typing-svg)
   
@@ -153,30 +154,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Lavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laveshnagda24-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=laveshnagda24-oss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laveshnagda24-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=laveshnagda24-oss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
-
----
-
 ## 🎯 My Approach
 
 > **"If you're doing it manually more than twice, automate it."**
@@ -214,7 +191,7 @@
 | 💰 Price Tracker | Monitor prices across Amazon/Flipkart | BeautifulSoup, SQLite |
 | 📝 Invoice Extractor | Extract data from PDF invoices automatically | PyPDF2, Flask |
 
-**More projects coming soon!**
+**📌 Projects coming soon - Currently building!**
 
 </div>
 
@@ -253,8 +230,6 @@
   **"Build → Test → Ship → Improve → Repeat 🚀"**
   
   ### 💬 Let's build something cool together!
-  
-  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
   
   *Made with ❤️ and AI assistance | Lavesh Nagda © 2025*
   
